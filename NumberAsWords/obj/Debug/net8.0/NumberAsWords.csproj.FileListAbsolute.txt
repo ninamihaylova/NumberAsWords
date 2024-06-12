@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\bin\Debug\net8.0\NumberAsWords.exe
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\bin\Debug\net8.0\NumberAsWords.deps.json
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\bin\Debug\net8.0\NumberAsWords.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\bin\Debug\net8.0\NumberAsWords.dll
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\bin\Debug\net8.0\NumberAsWords.pdb
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.dll
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\refint\NumberAsWords.dll
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.pdb
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\NumberAsWords.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumberAsWords\NumberAsWords\obj\Debug\net8.0\ref\NumberAsWords.dll
